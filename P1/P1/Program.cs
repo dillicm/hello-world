@@ -25,6 +25,8 @@ namespace P1
             Student1 one = new Student1(Name, LastName, Adress,State,Zip);
 
             System.Console.WriteLine(one.getInfo());
+            System.Console.ReadLine();
+
 
 
         }

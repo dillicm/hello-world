@@ -32,5 +32,10 @@
     {
         return firstName + lastName + streetAddress + state + zipCode;
     }
-}
+        public string Name { get; set; }
+
+        public int MyProperty { get; set; }
+        public int MyProperty { get; set; }
+       
+    }
 }
